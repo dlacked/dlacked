@@ -1,8 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ChangyongIm&fontSize=90)
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/C++6295CB?style=flat-square&logo=C++&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/C-A3B3C6?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Instagram-red?style=flat&logo=Instagram&logoColor=white" />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlacked)](https://github.com/anuraghazra/github-readme-stats)
+# 임창용 @dlacked
+𝗛𝗨𝗙𝗦 𝖣𝗂𝗏. 𝗈𝖿 𝖢𝗈𝗆𝗉𝗎𝗍𝖾𝗋 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋𝗂𝗇𝗀\
+𝗛𝗨𝗙𝗦 قسم اللغة العربية\
+𝗚𝗗𝗦𝗖 𝖧𝖴𝖥𝖲 𝖢𝗁𝖺𝗉𝗍𝖾𝗋 𝖬𝖾𝗆𝖻𝖾𝗋
+> https://linktr.ee/dlacked
+****
+## Programming Language
+Just studying...\
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-6295CB?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/C-A3B3C6?style=flat-square&logo=C&logoColor=white"/>
+
+****
+## Baekjoon Tier
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=imcy0104)](https://solved.ac/imcy0104/)
-https://linktr.ee/dlacked
+
