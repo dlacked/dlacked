@@ -11,6 +11,8 @@ Just studying...
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/C-A3B3C6?style=flat-square&logo=C&logoColor=white"/>
 
+I want to study...
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/C-A3B3C6?style=flat-square&logo=C&logoColor=white"/>
 ****
 ## Baekjoon Tier
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=imcy0104)](https://solved.ac/imcy01004/)
