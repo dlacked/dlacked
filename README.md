@@ -1,7 +1,6 @@
 # 임창용 (@dlacked)
-IM-CHANGYONG\
-2004 01 04\
 Hopyeong-dong, Namyangju-si, Gyeonggi-do, Republic of Korea\
+2004 01 04\
 he/him
 ****
 ## Bio
