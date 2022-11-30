@@ -1,5 +1,5 @@
 # 임창용 (@dlacked)
-> **Be Frontend Developer**
+> **Be Ambitious Frontend Developer**
 ## 💼 Belong to
 **Hankuk University of Foreign Studies**\
 Division of Computer Engineering (2022 ~ now)\
