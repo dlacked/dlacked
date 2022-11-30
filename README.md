@@ -1,6 +1,6 @@
 # 임창용 (@dlacked)
 > **Be Ambitious Frontend Developer**
-## 💼 Belong to
+## 🎓 Belong to
 **Hankuk University of Foreign Studies**\
 Division of Computer Engineering (2022 ~ now)\
 <a href="https://computer.hufs.ac.kr/ces/index.do" target='_blank'><img src="https://img.shields.io/badge/Link-002d56?style=flat-square&logo=HUFS&logoColor=white"/></a>
@@ -12,6 +12,11 @@ HUFS Chapter Member (2022 ~ now)\
 **Hankuk University of Foreign Studies**\
 Department of Arabic (2023 ~ )\
 <a href="https://arab.hufs.ac.kr/" target='_blank'><img src="https://img.shields.io/badge/Link-8d704f?style=flat-square&logo=HUFS&logoColor=white"/></a>
+
+## 🪪 Certification
+**ITQ OA Master** (~ 2027. 03\. 17\.)\
+**Computer Specialist in Spreadsheet & Database Level-Ⅱ**\
+**Computer Specialist in Spreadsheet & Database Level-Ⅰ**
 
 ## 📚 Language
 **Native**\
