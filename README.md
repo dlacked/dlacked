@@ -13,8 +13,8 @@ HUFS Chapter Member (2022 ~ now)\
 Department of Arabic (2023 ~ )\
 <a href="https://arab.hufs.ac.kr/" target='_blank'><img src="https://img.shields.io/badge/Link-8d704f?style=flat-square&logo=HUFS&logoColor=white"/></a>
 
-## 🪪 Certification
-**ITQ OA Master** (~ 2027. 03\. 17\.)\
+## 🪪 Certificated
+**ITQ OA Master** (~ 2027)\
 **Computer Specialist in Spreadsheet & Database Level-Ⅱ**\
 **Computer Specialist in Spreadsheet & Database Level-Ⅰ**
 
