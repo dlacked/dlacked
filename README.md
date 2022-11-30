@@ -6,15 +6,15 @@ he/him
 ## 💼 Belong to
 **Hankuk University of Foreign Studies**\
 Division of Computer Engineering (2022 ~ now)\
-<a href="computer.hufs.ac.kr"><img src="https://img.shields.io/badge/Link-002d56?style=flat-square&logo=HUFS&logoColor=white"/></a>
+<a href="https://computer.hufs.ac.kr/ces/index.do"><img src="https://img.shields.io/badge/Link-002d56?style=flat-square&logo=HUFS&logoColor=white"/></a>
 
 **Google Developer Student Clubs**\
 HUFS Chapter Member (2022 ~ now)\
-<a href="https://gdsc.community.dev/hankuk-university-of-foreign-studies/"><img src="https://img.shields.io/badge/Link-002d56?style=flat-square&logo=Google&logoColor=white"/></a>
+<a href="https://gdsc.community.dev/hankuk-university-of-foreign-studies/"><img src="https://img.shields.io/badge/Link-4285f4?style=flat-square&logo=Google&logoColor=white"/></a>
 
 **Hankuk University of Foreign Studies**\
 Department of Arabic (2023 ~ )\
-<a href="arab.hufs.ac.kr"><img src="https://img.shields.io/badge/Link-002d56?style=flat-square&logo=HUFS&logoColor=white"/></a>
+<a href="https://arab.hufs.ac.kr/"><img src="https://img.shields.io/badge/Link-002d56?style=flat-square&logo=HUFS&logoColor=white"/></a>
 
 ## 📚 Language
 Native\
