@@ -31,4 +31,4 @@ I want to be...
 ****
 ## Baekjoon Tier
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=imcy0104)](https://solved.ac/imcy01004/)
-  <img src="http://mazandi.herokuapp.com/api?handle={imcy0104}&theme=dark"/>
+<img src="http://mazandi.herokuapp.com/api?handle={imcy0104}&theme=warm"/>
