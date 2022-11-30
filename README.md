@@ -14,17 +14,16 @@ Department of Arabic (2023 ~ )\
 <a href="https://arab.hufs.ac.kr/" target='_blank'><img src="https://img.shields.io/badge/Link-8d704f?style=flat-square&logo=HUFS&logoColor=white"/></a>
 
 ## 📚 Language
-Native\
+**Native**\
 <img src="https://img.shields.io/badge/Korean-ffffff?style=flat-square&logo=Korean&logoColor=black"/>
 
-Studying\
+**Studying**\
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C/C++-A3B3C6?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/English-00247d?style=flat-square&logo=English&logoColor=red"/>
 
-Wanna Study\
+**Wanna Study**\
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Arabic-006c35?style=flat-square&logo=Arabic &logoColor=black"/>
 
 ## 🛠️ Tool
-Using\
 <img src="https://img.shields.io/badge/Android%20Studio-3ddc84?style=flat-square&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio-5c2d91?style=flat-square&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007acc?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
 
 ## 🖥️ Baekjoon
