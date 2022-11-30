@@ -27,7 +27,7 @@ Wanna Study\
 Using\
 <img src="https://img.shields.io/badge/Android%20Studio-3ddc84?style=flat-square&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio-5c2d91?style=flat-square&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007acc?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/LINE-00C300?style=flat-square&logo=LINE&logoColor=white"/> 
 
-## Baekjoon
+## 🖥️ Baekjoon
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=imcy0104)](https://solved.ac/imcy01004/)
 <img src="http://mazandi.herokuapp.com/api?handle=imcy0104&theme=dark"/>
 ****
