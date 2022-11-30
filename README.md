@@ -16,7 +16,7 @@ he/him
 ## 📚 Language / Tool
 Native
 
-<img src="https://img.shields.io/badge/Korea-ffffff?style=flat-square&logo=Korean&logoColor=black"/>
+<img src="https://img.shields.io/badge/Korean-ffffff?style=flat-square&logo=Korean&logoColor=black"/>
 Just studying...
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C/C++-A3B3C6?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
