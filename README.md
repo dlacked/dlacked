@@ -13,7 +13,7 @@ he/him
 𝗛𝗮𝗻𝗸𝘂𝗸 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗼𝗳 𝗙𝗼𝗿𝗲𝗶𝗴𝗻 𝗦𝘁𝘂𝗱𝗶𝗲𝘀\
 𝖣𝖾𝗉𝖺𝗋𝗍𝗆𝖾𝗇𝗍 𝗈𝖿 𝖠𝗋𝖺𝖻𝗂𝖼 (𝟤𝟢𝟤𝟥 ~)
 
-## Programming Language
+## 📚
 Just studying...
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C/C++-A3B3C6?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
