@@ -13,8 +13,8 @@ he/him
 𝗛𝗮𝗻𝗸𝘂𝗸 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗼𝗳 𝗙𝗼𝗿𝗲𝗶𝗴𝗻 𝗦𝘁𝘂𝗱𝗶𝗲𝘀\
 𝖣𝖾𝗉𝖺𝗋𝗍𝗆𝖾𝗇𝗍 𝗈𝖿 𝖠𝗋𝖺𝖻𝗂𝖼 (𝟤𝟢𝟤𝟥 ~)
 
-More information...
-<img src="https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white"/> <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Velog&logoColor=white"/>
+More information...\
+<a href="instagram.com/dlcked"><img src="https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white"/> <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Velog&logoColor=white"/>
 ****
 ## Programming Language
 Just studying...
