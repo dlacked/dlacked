@@ -3,7 +3,7 @@ Hopyeong-dong, Namyangju-si, Gyeonggi-do, Republic of Korea\
 2004 01 04\
 he/him
 ****
-## Bio
+## 💼 Belong to...
 𝗛𝗮𝗻𝗸𝘂𝗸 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗼𝗳 𝗙𝗼𝗿𝗲𝗶𝗴𝗻 𝗦𝘁𝘂𝗱𝗶𝗲𝘀\
 𝖣𝗂𝗏𝗂𝗌𝗂𝗈𝗇 𝗈𝖿 𝖢𝗈𝗆𝗉𝗎𝗍𝖾𝗋 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋𝗂𝗇𝗀 (𝟤𝟢𝟤𝟤 ~)
 
