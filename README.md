@@ -1,8 +1,5 @@
 # 임창용 (@dlacked)
-Hopyeong-dong, Namyangju-si, Gyeonggi-do, Republic of Korea\
-2004 01 04\
-he/him
-
+> **Be Frontend Developer**
 ## 💼 Belong to
 **Hankuk University of Foreign Studies**\
 Division of Computer Engineering (2022 ~ now)\
@@ -31,7 +28,7 @@ Using\
 <img src="https://img.shields.io/badge/Android%20Studio-3ddc84?style=flat-square&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio-5c2d91?style=flat-square&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007acc?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
 
 ## 🖥️ Baekjoon
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=imcy0104)](https://solved.ac/imcy01004/)
+[!["https://solved.ac/profile/imcy0104"](http://mazassumnida.wtf/api/v2/generate_badge?boj=imcy0104)](https://solved.ac/imcy01004/)
 <img src="http://mazandi.herokuapp.com/api?handle=imcy0104&theme=dark"/>
 
 ## ℹ️ More information...
