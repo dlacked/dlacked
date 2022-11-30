@@ -14,7 +14,7 @@ he/him
 𝖣𝖾𝗉𝖺𝗋𝗍𝗆𝖾𝗇𝗍 𝗈𝖿 𝖠𝗋𝖺𝖻𝗂𝖼 (𝟤𝟢𝟤𝟥 ~)
 
 More information...\
-<a href="instagram.com/dlacked"><img src="https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white"/></a> <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Velog&logoColor=white"/>
+<a href="https://www.instagram.com/dlacked/"><img src="https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white"/></a> <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Velog&logoColor=white"/>
 ****
 ## Programming Language
 Just studying...
