@@ -25,7 +25,7 @@ Wanna Study\
 
 ## 🛠️ Tool
 Using\
-<img src="https://img.shields.io/badge/Android%20Studio-3ddc84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/> <img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/> <img src="https://img.shields.io/badge/LINE-00C300?style=flat-square&logo=LINE&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Android%20Studio-3ddc84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio-5c2d91?style=flat-square&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/> <img src="https://img.shields.io/badge/LINE-00C300?style=flat-square&logo=LINE&logoColor=white"/> 
 ****
 ## Baekjoon Tier
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=imcy0104)](https://solved.ac/imcy01004/)
