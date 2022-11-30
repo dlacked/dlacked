@@ -13,16 +13,14 @@ he/him
 𝗛𝗮𝗻𝗸𝘂𝗸 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗼𝗳 𝗙𝗼𝗿𝗲𝗶𝗴𝗻 𝗦𝘁𝘂𝗱𝗶𝗲𝘀\
 𝖣𝖾𝗉𝖺𝗋𝗍𝗆𝖾𝗇𝗍 𝗈𝖿 𝖠𝗋𝖺𝖻𝗂𝖼 (𝟤𝟢𝟤𝟥 ~)
 
-## 📚 Language / Tool
+## 📚 Language
 Native
-
 <img src="https://img.shields.io/badge/Korean-ffffff?style=flat-square&logo=Korean&logoColor=black"/>
-Just studying...
 
+Studying
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C/C++-A3B3C6?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
 
-I want to study...
-
+Wanna Study
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> 
 
 I want to be...
