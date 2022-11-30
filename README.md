@@ -30,6 +30,5 @@ I want to be...
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=imcy0104)](https://solved.ac/imcy01004/)
 <img src="http://mazandi.herokuapp.com/api?handle=imcy0104&theme=dark"/>
 ****
-More information...\
+## More information...
 <a href="https://www.instagram.com/dlacked/"><img src="https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white"/></a> <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Velog&logoColor=white"/>
-****
