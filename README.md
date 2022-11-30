@@ -11,7 +11,7 @@ HUFS Chapter Member (2022 ~ now)\
 
 **Hankuk University of Foreign Studies**\
 Department of Arabic (2023 ~ )\
-<a href="https://arab.hufs.ac.kr/" target='_blank'><img src="https://img.shields.io/badge/Link-002d56?style=flat-square&logo=HUFS&logoColor=white"/></a>
+<a href="https://arab.hufs.ac.kr/" target='_blank'><img src="https://img.shields.io/badge/Link-8d704f?style=flat-square&logo=HUFS&logoColor=white"/></a>
 
 ## 📚 Language
 Native\
