@@ -2,15 +2,15 @@
 > **Be Ambitious Frontend Developer**
 ## 🎓 Belong to
 **Hankuk University of Foreign Studies**\
-Division of Computer Engineering (2022 ~ now)\
+Division of Computer Engineering\
 <a href="https://computer.hufs.ac.kr/ces/index.do" target='_blank'><img src="https://img.shields.io/badge/Link-002d56?style=flat-square&logo=HUFS&logoColor=white"/></a>
 
 **Google Developer Student Clubs**\
-HUFS Chapter Member (2022 ~ now)\
+HUFS Chapter Member\
 <a href="https://gdsc.community.dev/hankuk-university-of-foreign-studies/" target='_blank'><img src="https://img.shields.io/badge/Link-4285f4?style=flat-square&logo=Google&logoColor=white"/></a>
 
 **Hankuk University of Foreign Studies**\
-Department of Arabic (2023 ~ )\
+Department of Arabic\
 <a href="https://arab.hufs.ac.kr/" target='_blank'><img src="https://img.shields.io/badge/Link-8d704f?style=flat-square&logo=HUFS&logoColor=white"/></a>
 
 ## 🪪 Certification
@@ -44,7 +44,7 @@ Department of Arabic (2023 ~ )\
 
 ## 🖥️ Baekjoon
 [!["https://solved.ac/profile/imcy0104"](http://mazassumnida.wtf/api/v2/generate_badge?boj=imcy0104)](https://solved.ac/imcy0104/)
-<a href="https://solved.ac/imcy0104/"><img src="http://mazandi.herokuapp.com/api?handle=imcy0104&theme=warm"/></a>
+<!-- <a href="https://solved.ac/imcy0104/"><img src="http://mazandi.herokuapp.com/api?handle=imcy0104&theme=warm"/></a> -->
 
 ## ℹ️ More Information
 <a href="https://www.acmicpc.net/user/imcy0104" target='_blank'><img src="https://img.shields.io/badge/Baekjoon-0077c1?style=flat-square&logo=Baekjoon&logoColor=white"/></a>
