@@ -51,4 +51,5 @@ Department of Arabic\
 <a href="https://github.com/dlacked" target='_blank'><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlacked&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> 
 <a href="https://www.instagram.com/dlacked/" target='_blank'><img src="https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white"/></a> 
 <a href="https://open.spotify.com/user/2fz1dsg58rj212iue0f42q9wk?si=YaTvJUx4QE6o7RvjW1UdOw" target='_blank'><img src="https://img.shields.io/badge/Spotify-1db954?style=flat-square&logo=Spotify&logoColor=white"/></a> 
+<a href="https://stats.fm/dlacked" target='_blank'><img src="https://img.shields.io/badge/Stats.fm-1db954?style=flat-square&logo=Spotify&logoColor=white"/></a> 
 <a href="https://velog.io/@imcy0104" target='_blank'><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Velog&logoColor=white"/></a>
