@@ -9,40 +9,31 @@ Division of Computer Engineering\
 HUFS Chapter Member\
 <a href="https://gdsc.community.dev/hankuk-university-of-foreign-studies/" target='_blank'><img src="https://img.shields.io/badge/Link-4285f4?style=flat-square&logo=Google&logoColor=white"/></a>
 
-**Hankuk University of Foreign Studies**\
+<!-- **Hankuk University of Foreign Studies**\
 Department of Arabic\
-<a href="https://arab.hufs.ac.kr/" target='_blank'><img src="https://img.shields.io/badge/Link-8d704f?style=flat-square&logo=HUFS&logoColor=white"/></a>
+<a href="https://arab.hufs.ac.kr/" target='_blank'><img src="https://img.shields.io/badge/Link-8d704f?style=flat-square&logo=HUFS&logoColor=white"/></a> -->
 
 ## 🪪 Certification
 **ITQ OA Master**\
 **Computer Specialist in Spreadsheet & Database Level-Ⅱ**\
 **Computer Specialist in Spreadsheet & Database Level-Ⅰ**
 
-## 🏆 Award-Winning
-**NULL**
+<!--## 🏆 Award-Winning
+**NULL** -->
 
-## 📚 Language
-**Native**\
-<img src="https://img.shields.io/badge/Korean-ffffff?style=flat-square&logo=Korean&logoColor=black"/>
-
-**Studying**\
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/> 
-<img src="https://img.shields.io/badge/C/C++-A3B3C6?style=flat-square&logo=C&logoColor=white"/> 
-<img src="https://img.shields.io/badge/English-00247d?style=flat-square&logo=English&logoColor=red"/> 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
-
-**Wanna Study**\
-<img src="https://img.shields.io/badge/Arabic-006c35?style=flat-square&logo=Arabic &logoColor=black"/> 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+## 📚 Studying
+<img src="https://img.shields.io/badge/Arduino-black?style=flat-square&logo=Arduino&logoColor=00979D"/> <img src="https://img.shields.io/badge/C/C++-black?style=flat-square&logo=C&logoColor=A3B3C6"/> 
+<img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python&logoColor=3766AB"/>
+<img src="https://img.shields.io/badge/HTML5-black?style=flat-square&logo=HTML5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-black?style=flat-square&logo=CSS3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript&logoColor=EFD81D"/> 
 
 ## 🛠️ Tools
-<img src="https://img.shields.io/badge/Android%20Studio-3ddc84?style=flat-square&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat-square&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio-5c2d91?style=flat-square&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007acc?style=flat-square&logo=Visual Studio Code&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Arduino%20IDE-black?style=flat-square&logo=Arduino&logoColor=00979D"/> <img src="https://img.shields.io/badge/Visual%20Studio-black?style=flat-square&logo=Visual Studio&logoColor=5c2d91"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-black?style=flat-square&logo=Visual Studio Code&logoColor=007acc"/> <img src="https://img.shields.io/badge/Brackets-black?style=flat-square&logo=Brackets&logoColor=NULL"/> 
 
 ## 🖥️ Baekjoon
 [!["https://solved.ac/profile/imcy0104"](http://mazassumnida.wtf/api/v2/generate_badge?boj=imcy0104)](https://solved.ac/imcy0104/)
-<!-- <a href="https://solved.ac/imcy0104/"><img src="http://mazandi.herokuapp.com/api?handle=imcy0104&theme=warm"/></a> -->
+<a href="https://solved.ac/imcy0104/"><img src="http://mazandi.herokuapp.com/api?handle=imcy0104&theme=warm"/></a>
 
 ## ℹ️ More Information
 <a href="https://www.acmicpc.net/user/imcy0104" target='_blank'><img src="https://img.shields.io/badge/Baekjoon-0077c1?style=flat-square&logo=Baekjoon&logoColor=white"/></a>
