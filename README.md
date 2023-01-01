@@ -22,14 +22,14 @@ Department of Arabic\
 **NULL** -->
 
 ## 📚 Studying
-<img src="https://img.shields.io/badge/Arduino-black?style=flat-square&logo=Arduino&logoColor=00979D"/> <img src="https://img.shields.io/badge/C/C++-black?style=flat-square&logo=C&logoColor=A3B3C6"/> 
-<img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python&logoColor=3766AB"/>
-<img src="https://img.shields.io/badge/HTML5-black?style=flat-square&logo=HTML5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-black?style=flat-square&logo=CSS3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript&logoColor=EFD81D"/> 
+<img src="https://img.shields.io/badge/Arduino-0D1117?style=flat-square&logo=Arduino&logoColor=00979D"/> <img src="https://img.shields.io/badge/C/C++-0D1117?style=flat-square&logo=C&logoColor=A3B3C6"/> 
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=Python&logoColor=3766AB"/>
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=HTML5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=CSS3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=JavaScript&logoColor=EFD81D"/> 
 
 ## 🛠️ Tools
-<img src="https://img.shields.io/badge/Arduino%20IDE-black?style=flat-square&logo=Arduino&logoColor=00979D"/> <img src="https://img.shields.io/badge/Visual%20Studio-black?style=flat-square&logo=Visual Studio&logoColor=5c2d91"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-black?style=flat-square&logo=Visual Studio Code&logoColor=007acc"/> <img src="https://img.shields.io/badge/Brackets-black?style=flat-square&logo=Brackets&logoColor=NULL"/> 
+<img src="https://img.shields.io/badge/Arduino%20IDE-0D1117?style=flat-square&logo=Arduino&logoColor=00979D"/> <img src="https://img.shields.io/badge/Visual%20Studio-0D1117?style=flat-square&logo=Visual Studio&logoColor=5c2d91"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0D1117?style=flat-square&logo=Visual Studio Code&logoColor=007acc"/> <img src="https://img.shields.io/badge/Brackets-0D1117?style=flat-square&logo=Brackets&logoColor=NULL"/> 
 
 ## 🖥️ Baekjoon
 [!["https://solved.ac/profile/imcy0104"](http://mazassumnida.wtf/api/v2/generate_badge?boj=imcy0104)](https://solved.ac/imcy0104/)
