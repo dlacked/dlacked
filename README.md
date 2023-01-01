@@ -35,7 +35,7 @@ Department of Arabic\
 [!["https://solved.ac/profile/imcy0104"](http://mazassumnida.wtf/api/v2/generate_badge?boj=imcy0104)](https://solved.ac/imcy0104/)
 <a href="https://solved.ac/imcy0104/"><img src="http://mazandi.herokuapp.com/api?handle=imcy0104&theme=warm"/></a>
 
-## ℹ️ More Information
+## ℹ️ More Information (
 <a href="https://www.acmicpc.net/user/imcy0104" target='_blank'><img src="https://img.shields.io/badge/Baekjoon-0077c1?style=flat-square&logo=Baekjoon&logoColor=white"/></a>
 <a href="https://solved.ac/profile/imcy0104" target='_blank'><img src="https://img.shields.io/badge/Solved.io-0077c1?style=flat-square&logo=Solved.io&logoColor=white"/></a>
 <a href="https://github.com/dlacked" target='_blank'><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlacked&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> 
