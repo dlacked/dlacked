@@ -33,7 +33,7 @@ Department of Arabic\
 
 ## 🖥️ Baekjoon
 [!["https://solved.ac/profile/imcy0104"](http://mazassumnida.wtf/api/v2/generate_badge?boj=imcy0104)](https://solved.ac/imcy0104/)
-<a href="https://solved.ac/imcy0104/"><img src="http://mazandi.herokuapp.com/api?handle=imcy0104&theme=warm"/></a>
+<!--<a href="https://solved.ac/imcy0104/"><img src="http://mazandi.herokuapp.com/api?handle=imcy0104&theme=warm"/></a>-->
 
 ## ℹ️ More Information (Link)
 <a href="https://www.acmicpc.net/user/imcy0104" target='_blank'><img src="https://img.shields.io/badge/Baekjoon-0077c1?style=flat-square&logo=Baekjoon&logoColor=white"/></a>
