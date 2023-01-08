@@ -18,9 +18,8 @@
 **컴퓨터활용능력 2급**\
 **컴퓨터활용능력 1급**
 
-## 🏆성장하는 임창용
+## 🏆 성장하는 임창용
 **HUFS CODE FESTIVAL Challenger Track 30등 (2022)**
-
 
 ## 📚 공부 중!
 <img src="https://img.shields.io/badge/Arduino-0D1117?style=flat-square&logo=Arduino&logoColor=00979D"/> <img src="https://img.shields.io/badge/C/C++-0D1117?style=flat-square&logo=C&logoColor=A3B3C6"/> 
