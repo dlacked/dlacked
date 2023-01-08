@@ -22,8 +22,7 @@
 **HUFS CODE FESTIVAL Challenger Track 30등 (2022)**
 
 ## 📚 공부 중!
-<img src="https://img.shields.io/badge/Arduino-0D1117?style=flat-square&logo=Arduino&logoColor=00979D"/> <img src="https://img.shields.io/badge/C/C++-0D1117?style=flat-square&logo=C&logoColor=A3B3C6"/> 
-<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=Python&logoColor=3766AB"/>
+<img src="https://img.shields.io/badge/C/C++-0D1117?style=flat-square&logo=C&logoColor=A3B3C6"/> <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=Python&logoColor=3766AB"/>
 <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=HTML5&logoColor=E34F26"/>
 <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=CSS3&logoColor=1572B6"/>
 <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=JavaScript&logoColor=EFD81D"/> 
