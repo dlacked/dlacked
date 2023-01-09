@@ -19,6 +19,8 @@
 **컴퓨터활용능력 1급**
 
 ## 🏆 성장의 밑거름
+**컴퓨터활용능력 1급** 취득 (2022)\
+**한국외국어대학교 컴퓨터공학부** 입학 (2022)\
 GDSC X TAB HUFSUMMER Hackathon 참가 (2022)\
 **GDSC HUFS** 가입 (2022)\
 HUFS CODE FESTIVAL Challenger Track **30등** (2022)
