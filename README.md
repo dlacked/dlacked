@@ -13,17 +13,13 @@
 아랍어과\
 <a href="https://arab.hufs.ac.kr/" target='_blank'><img src="https://img.shields.io/badge/Link-8d704f?style=flat-square&logo=HUFS&logoColor=white"/></a> -->
 
-## 🪪 자격증
-**ITQ OA Master**\
-**컴퓨터활용능력 2급**\
-**컴퓨터활용능력 1급**
-
 ## 🏆 성장의 밑거름
-**컴퓨터활용능력 1급** 취득 (2022)\
-**한국외국어대학교 컴퓨터공학부** 입학 (2022)\
-GDSC X TAB HUFSUMMER Hackathon 참가 (2022)\
-**GDSC HUFS** 가입 (2022)\
-HUFS CODE FESTIVAL Challenger Track **30등** (2022)
+**한국외국어대학교 컴퓨터공학부** 추가 합격 (2021. 12. 21.)\
+Stop Covid-19 Challenge 참가 (2022. 01. ~ 2022. 03.)\
+**컴퓨터활용능력 1급** 자격취득 (2022. 03. 04.)\
+GDSC X TAB HUFSUMMER Hackathon 참가 (2022. 07. 23. ~ 2022. 07. 24.)\
+**GDSC HUFS** 가입 (2022. 09. 17.)\
+HUFS CODE FESTIVAL Challenger Track **30등** (2022. 11. 25.)
 
 
 ## 📚 공부ing
