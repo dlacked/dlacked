@@ -32,7 +32,7 @@ HUFS CODE FESTIVAL Challenger Track **30등** (2022)
 <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=CSS3&logoColor=1572B6"/>
 <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=JavaScript&logoColor=EFD81D"/> 
 
-## 🛠️ 퉁
+## 🛠️ 툴
 <img src="https://img.shields.io/badge/Visual%20Studio-0D1117?style=flat-square&logo=Visual Studio&logoColor=5c2d91"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0D1117?style=flat-square&logo=Visual Studio Code&logoColor=007acc"/> <img src="https://img.shields.io/badge/Brackets-0D1117?style=flat-square&logo=Brackets&logoColor=NULL"/> 
 
 ## 🖥️ 백준
