@@ -14,14 +14,19 @@
 <a href="https://arab.hufs.ac.kr/" target='_blank'><img src="https://img.shields.io/badge/Link-8d704f?style=flat-square&logo=HUFS&logoColor=white"/></a> -->
 
 ## 🏆 성장의 밑거름
-**한국외국어대학교 컴퓨터공학부** 추가 합격 (2021. 12. 21.)\
-Stop Covid-19 Challenge 참가 (2022. 01. ~ 2022. 03.)\
-**컴퓨터활용능력 2급** 자격취득 (2022. 02. 18.)\
-**컴퓨터활용능력 1급** 자격취득 (2022. 03. 04.)\
-GDSC X TAB HUFSUMMER Hackathon 참가 (2022. 07. 23. ~ 2022. 07. 24.)\
-**GDSC HUFS** 가입 (2022. 09. 17.)\
-HUFS CODE FESTIVAL Challenger Track **30등** (2022. 11. 25.)
+### 2021
+**한국외국어대학교 컴퓨터공학부** 추가 합격 (12. 21.)
 
+### 2022
+Stop Covid-19 Challenge 참가 (01. ~ 03.)\
+**컴퓨터활용능력 2급** 자격취득 (02. 18.)\
+**컴퓨터활용능력 1급** 자격취득 (03. 04.)\
+GDSC X TAB HUFSUMMER Hackathon 참가 (07. 23. ~ 07. 24.)\
+**GDSC HUFS** 가입 (09. 17.)\
+HUFS CODE FESTIVAL Challenger Track **30등** (11. 25.)
+
+### 2023
+**What should I do?**
 
 ## 📚 공부ing
 <img src="https://img.shields.io/badge/C/C++-0D1117?style=flat-square&logo=C&logoColor=A3B3C6"/> <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=Python&logoColor=3766AB"/>
