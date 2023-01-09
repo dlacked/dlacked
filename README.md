@@ -15,15 +15,15 @@
 
 ## 🏆 성장의 밑거름
 ### 2021
-**한국외국어대학교 컴퓨터공학부** 추가 합격 (12. 21.)
+**한국외국어대학교 컴퓨터공학부** 추가 합격 (12/21)
 
 ### 2022
-Stop Covid-19 Challenge 참가 (01. ~ 03.)\
-**컴퓨터활용능력 2급** 자격취득 (02. 18.)\
-**컴퓨터활용능력 1급** 자격취득 (03. 04.)\
-GDSC X TAB HUFSUMMER Hackathon 참가 (07. 23. ~ 07. 24.)\
-**GDSC HUFS** 가입 (09. 17.)\
-HUFS CODE FESTIVAL Challenger Track **30등** (11. 25.)
+Stop Covid-19 Challenge 참가 (? ~ 03/01)\
+**컴퓨터활용능력 2급** 자격취득 (02/18)\
+**컴퓨터활용능력 1급** 자격취득 (03/04)\
+GDSC X TAB HUFSUMMER Hackathon 참가 (07/23. ~ 07/24)\
+**GDSC HUFS** 가입 (09/17)\
+HUFS CODE FESTIVAL Challenger Track **30등** (11/25)
 
 ### 2023
 **What should I do?**
