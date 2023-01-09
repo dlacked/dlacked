@@ -1,4 +1,4 @@
-# 임창용 (@dlacked)
+# Changyong IM (@dlacked)
 > **Be Ambitious Frontend Developer**
 ## 🎓 소속
 **한국외국어대학교**\
