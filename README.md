@@ -1,33 +1,5 @@
 # 임창용 (Changyong IM)
 > **Be Ambitious Frontend Developer**
-## 🎓 소속
-**한국외국어대학교**\
-컴퓨터공학부 (컴퓨터공학전공)\
-<a href="https://computer.hufs.ac.kr/ces/index.do" target='_blank'><img src="https://img.shields.io/badge/Link-002d56?style=flat-square&logo=HUFS&logoColor=white"/></a>
-
-**Google Developer Student Clubs**\
-한국외국어대학교 챕터 4기 멤버\
-<a href="https://gdsc.community.dev/hankuk-university-of-foreign-studies/" target='_blank'><img src="https://img.shields.io/badge/Link-4285f4?style=flat-square&logo=Google&logoColor=white"/></a>
-
-<!-- **한국외국어대학교**\
-아랍어과\
-<a href="https://arab.hufs.ac.kr/" target='_blank'><img src="https://img.shields.io/badge/Link-8d704f?style=flat-square&logo=HUFS&logoColor=white"/></a> -->
-
-## 🏆 성장의 밑거름
-### 2021
-**한국외국어대학교 컴퓨터공학부** 추가 합격 (12/21)
-
-### 2022
-Stop Covid-19 Challenge 참가 (? ~ 03/01)\
-**컴퓨터활용능력 2급** 자격취득 (02/18)\
-**컴퓨터활용능력 1급** 자격취득 (03/04)\
-GDSC X TAB HUFSUMMER Hackathon 참가 (07/23 ~ 07/24)\
-**GDSC HUFS** 가입 (09/17)\
-HUFS CODE FESTIVAL Challenger Track **30등** (11/25)
-
-### 2023
-**What should I do?**
-
 ## 📚 공부ing
 <img src="https://img.shields.io/badge/C/C++-0D1117?style=flat-square&logo=C&logoColor=A3B3C6"/> <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=Python&logoColor=3766AB"/>
 <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=HTML5&logoColor=E34F26"/>
