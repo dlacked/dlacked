@@ -1,5 +1,5 @@
 # 임창용 (Changyong IM)
-> **그저 단어들이 흘러나오는 대로 해** -창모-
+> **그저 단어들이 흘러나오는 대로 해**
 ## 📚 Studying
 <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=HTML5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=CSS3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=JavaScript&logoColor=EFD81D"/> 
 
