@@ -38,7 +38,7 @@
   </tr>
   <tr>
     <td>2023. 02. 10.</td>
-    <td>vsugang_practice Beta 출시</td>
+    <td>vsugang_practice 개발 시작</td>
   </tr>
   <tr>
     <td>2023. 02. 13.</td>
