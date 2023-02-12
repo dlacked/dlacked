@@ -11,4 +11,4 @@
 <!--<a href="https://solved.ac/imcy0104/"><img src="http://mazandi.herokuapp.com/api?handle=imcy0104&theme=warm"/></a>-->
 
 ## ℹ️ More Information
-<a href="https://www.acmicpc.net/user/imcy0104" target='_blank'>dlacked's homepage</a>
+<a href="https://www.acmicpc.net/user/imcy0104" target='_blank'>Homepage</a>
