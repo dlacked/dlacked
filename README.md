@@ -33,7 +33,7 @@
   </tr>
   <tr>
     <td>2022. 09. 17.</td>
-    <td>Google Developer Students Club HUFS Chapter 4기 Member</td>
+    <td>Google Developer Students Club HUFS Chapter 4기 Member 활동 시작</td>
   </tr>
   <tr>
     <td>2023. 02. 10.</td>
