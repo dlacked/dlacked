@@ -42,6 +42,6 @@
   </tr>
   <tr>
     <td>2023. 02. 13.</td>
-    <td>vsugang_practice 정식 출시 <a href="https://vsugangpractice.com">Link</a></td>
+    <td>vsugang_practice 정식 출시 <a href="https://vsugangpractice.com">vsugangpractice.com</a></td>
   </tr>
 </table>
