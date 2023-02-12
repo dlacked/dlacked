@@ -3,7 +3,7 @@
 
 ```html
 <!DOCTYPE html>
-<html>
+<html lang="ko">
   <head>
     <title>Hello, I'm dlacked!</title>
     <meta charset="UTF-8">
