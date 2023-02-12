@@ -16,8 +16,7 @@
 ```
 <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=HTML5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=CSS3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=JavaScript&logoColor=EFD81D"/> 
 
-## BOJ
-[!["https://solved.ac/profile/imcy0104"](http://mazassumnida.wtf/api/v2/generate_badge?boj=imcy0104)](https://solved.ac/imcy0104/)
+## TIMELINE
 
 <table>
   <tr>
@@ -45,3 +44,7 @@
     <td>vsugang_practice 정식 출시 (<a href="https://vsugangpractice.com">vsugangpractice.com</a>)</td>
   </tr>
 </table>
+
+## BOJ
+[!["https://solved.ac/profile/imcy0104"](http://mazassumnida.wtf/api/v2/generate_badge?boj=imcy0104)](https://solved.ac/imcy0104/)
+
