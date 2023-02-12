@@ -10,7 +10,7 @@
     <meta name="description" content="Be a Ambitious Frontend Developer">
   </head>
   <body>
-    <p>반갑습니다! 이곳은 제 놀이터입니다.</p>
+    <p>제 GitHub에 오신 것을 진심으로 환영합니다!</p>
   </body>
 </html>
 ```
