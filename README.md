@@ -48,3 +48,5 @@
 ## BOJ
 [!["https://solved.ac/profile/imcy0104"](http://mazassumnida.wtf/api/v2/generate_badge?boj=imcy0104)](https://solved.ac/imcy0104/)
 
+## VELOG POST
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dlacked)](https://github.com/eungyeole/velog-readme-stats)
