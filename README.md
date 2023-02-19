@@ -14,8 +14,8 @@
   </body>
 </html>
 ```
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=HTML5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=CSS3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=JavaScript&logoColor=EFD81D"/> 
-
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=3776AB"><br>
+<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=E34F26"> <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=1572B6"> <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=61DAFB">
 ## TIMELINE
 
 <table>
