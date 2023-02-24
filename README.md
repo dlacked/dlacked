@@ -36,12 +36,8 @@
     <td>Google Developer Students Club에서 4기 Member로 활동 시작</td>
   </tr>
   <tr>
-    <td>2023. 02. 10.</td>
-    <td>vsugang_practice 프로젝트 개발/배포 시작</td>
-  </tr>
-  <tr>
     <td>2023. 02. 13.</td>
-    <td>vsugang_practice 정식 출시 (<a href="https://vsugangpractice.com">vsugangpractice.com</a>)</td>
+    <td>HUFS수강연습 정식 출시 (<a href="https://vsugangpractice.com">vsugangpractice.com</a>)</td>
   </tr>
 </table>
 
