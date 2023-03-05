@@ -39,7 +39,7 @@
   </tr>
   <tr>
     <td>2023. 02. 13.</td>
-    <td>HUFS수강연습 정식 출시 (<a href="https://vsugangpractice.com">vsugangpractice.com</a>)</td>
+    <td>HUFS수강연습 배포 시작 (<a href="https://vsugangpractice.com">vsugangpractice.com</a>)</td>
   </tr>
 </table>
 
