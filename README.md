@@ -41,6 +41,10 @@
     <td>2023. 02. 13.</td>
     <td>HUFS수강연습 배포 시작 (<a href="https://vsugangpractice.com">vsugangpractice.com</a>)</td>
   </tr>
+  <tr>
+    <td>2023. 03. 30.</td>
+    <td>PnP 운영진 활동 시작</td>
+  </tr>
 </table>
 
 ## BOJ
