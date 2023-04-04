@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5&logoColor=E34F26"> <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=1572B6"> <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E">
 #### Studying
 <a href="https://ko.reactjs.org/"><img src="https://img.shields.io/badge/React.js-black?style=for-the-badge&logo=React&logoColor=61DAFB"></a> <a href="https://scrollrevealjs.org/"><img src="https://img.shields.io/badge/ScrollReveal.js-black?style=for-the-badge&logo=ScrollReveal&logoColor=FFCB36"></a> <a href=""><img src="https://img.shields.io/badge/Carousel.js-black?style=for-the-badge&logo=Carousel&logoColor=ffffff"></a> <a href="https://alvarotrigo.com/fullPage/"><img src="https://img.shields.io/badge/fullPage.js-black?style=for-the-badge&logo=fullPage&logoColor=ffffff"></a> <a href=""><img src="https://img.shields.io/badge/GSAP.js-black?style=for-the-badge&logo=GreenSock&logoColor=88CE02"></a>
-## BELONG TO
+## TIMELINE
 
 <table>
   <tr>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>2023. 03. 30.</td>
-    <td>PnP 운영진 활동 시작</td>
+    <td>PnP 운영진(기획부) 활동 시작</td>
   </tr>
 </table>
 
