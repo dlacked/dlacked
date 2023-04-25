@@ -7,7 +7,7 @@
   <head>
     <title>Hello, I'm dlacked!</title>
     <meta charset="UTF-8">
-    <meta name="description" content="Be a Ambitious Frontend Developer">
+    <meta name="description" content="Be Ambitious Frontend Developer">
   </head>
   <body>
     <p>Far away from my D-Day.</p>
