@@ -20,11 +20,12 @@
 #### Studying
 <a href="https://ko.reactjs.org/"><img src="https://img.shields.io/badge/React.js-black?style=for-the-badge&logo=React&logoColor=61DAFB"></a> 
 
-## ??
+## Level Up!
 <ul>
   <li>한국외국어대학교 컴퓨터공학부 22학번
   <li>Google Developer Students Club 4기 수료
-  <li>사용자 수 2.5K를 달성한 웹사이트 개발자
+  <li>사용자 수 2.5K를 달성한 웹사이트 개발자 ([HUFS수강연습](https://vsugangpractice.com))
+  <li>CENSORED
 </ul>
 
 ## HUFS수강연습
