@@ -24,7 +24,7 @@
 <ul>
   <li>한국외국어대학교 컴퓨터공학부 22학번
   <li>Google Developer Students Club 4기 수료
-  <li>사용자 수 2.5K를 달성한 웹사이트 개발자 ([HUFS수강연습](https://vsugangpractice.com))
+  <li>사용자 수 2.5K를 달성한 웹사이트 개발자 (<a href="https://vsugangpractice.com>HUFS수강연습</a>)
   <li>CENSORED
 </ul>
 
