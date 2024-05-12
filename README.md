@@ -14,9 +14,13 @@
   </body>
 </html>
 ```
+
 #### Using Languages
 <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=3776AB">
-<span><img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5&logoColor=E34F26"> <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=1572B6"> <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=3178C6"> <img src="https://img.shields.io/badge/React.js-black?style=for-the-badge&logo=React&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js&logoColor=ffffff"></span>
+<span><img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5&logoColor=E34F26"> <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=1572B6"> <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=3178C6"> <img src="https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=Markdown&logoColor=ffffff"> <img src="https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=Sass&logoColor=CC6699"> </span>
+
+#### Learning Languages
+<span><img src="https://img.shields.io/badge/React.js-black?style=for-the-badge&logo=React&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js&logoColor=ffffff"></span>
 
 #### Using Tools
 <img src="https://img.shields.io/badge/Visual Studio Code-black?style=for-the-badge&logo=Visual Studio Code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=ffffff"> <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=F05032"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=ffffff"> <img src="https://img.shields.io/badge/GitHub Pages-black?style=for-the-badge&logo=GitHub Pages&logoColor=ffffff"> <img src="https://img.shields.io/badge/Slack-black?style=for-the-badge&logo=Slack&logoColor=4A154B"> <img src="https://img.shields.io/badge/google search console-black?style=for-the-badge&logo=googlesearchconsole&logoColor=4285F4">
