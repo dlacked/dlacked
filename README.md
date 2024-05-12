@@ -37,4 +37,4 @@
 ## Baekjoon
 <img src="https://img.shields.io/badge/Using Python-black?style=for-the-badge&logo=Python&logoColor=3776AB">
 
-![https://solved.ac/profile/imcy0104](http://mazandi.herokuapp.com/api?handle=imcy0104&theme=warm)
+![https://solved.ac/profile/imcy0104](http://mazandi.herokuapp.com/api?handle=imcy0104&theme=dark)
