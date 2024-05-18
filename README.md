@@ -49,5 +49,6 @@
 - **B5** ALL SOLVE
 - **B4** ALL SOLVE
 - Season 2 **G5**
+- 4th SMUPC Open Contest (90th/192nd)
   
 [![https://solved.ac/profile/imcy0104](http://mazassumnida.wtf/api/v2/generate_badge?boj=imcy0104)](https://solved.ac/imcy0104) [![https://solved.ac/profile/imcy0104](http://mazandi.herokuapp.com/api?handle=imcy0104&theme=dark)](https://solved.ac/imcy0104)
