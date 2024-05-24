@@ -53,8 +53,8 @@
 - Solved **500 Problems**
 
 ### Open Contest
-- Competed **4th SMUPC Open Contest**
-- Competed **2024 IUPC Open Contest**
+- Competed in **4th SMUPC Open Contest**
+- Competed in **2024 IUPC Open Contest**
 
 ### Tier
 [![https://solved.ac/profile/imcy0104](http://mazassumnida.wtf/api/v2/generate_badge?boj=imcy0104)](https://solved.ac/imcy0104) [![https://solved.ac/profile/imcy0104](http://mazandi.herokuapp.com/api?handle=imcy0104&theme=dark)](https://solved.ac/imcy0104)
