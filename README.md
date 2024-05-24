@@ -46,9 +46,15 @@
 ## Baekjoon
 <img src="https://img.shields.io/badge/pypy-black?style=for-the-badge&logo=Pypy&logoColor=193440"> <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=3776AB">
 
+### Archivements
 - **B5** ALL SOLVE
 - **B4** ALL SOLVE
 - Season 2 **G5**
-- 4th SMUPC Open Contest (90th/192nd)
-  
+- Solved **500 Problems**
+
+### Open Contest
+- Competed **4th SMUPC Open Contest**
+- Competed **2024 IUPC Open Contest**
+
+### Tier
 [![https://solved.ac/profile/imcy0104](http://mazassumnida.wtf/api/v2/generate_badge?boj=imcy0104)](https://solved.ac/imcy0104) [![https://solved.ac/profile/imcy0104](http://mazandi.herokuapp.com/api?handle=imcy0104&theme=dark)](https://solved.ac/imcy0104)
