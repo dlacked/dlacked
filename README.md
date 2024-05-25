@@ -43,18 +43,39 @@
 <!--## Homepage
 [Click Here!](https://dlacked.github.io)-->
 
-## Baekjoon
+## 백준 / Solved.ac
+<div align="center">
+  <a href="https://solved.ac/profile/imcy0104"><img src="https://static.solved.ac/tier_small/11.svg" width="100" height="100"></a>
+  
+  <br>
+  
+### Gold 5
+
 <img src="https://img.shields.io/badge/pypy-black?style=for-the-badge&logo=Pypy&logoColor=193440"> <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=3776AB">
 
+<br>
+
 ### Archivements
-- **B5** ALL SOLVE
-- **B4** ALL SOLVE
-- Season 2 **G5**
-- Solved **500 Problems**
+
+**Bronze 5** ALL SOLVE
+
+**Bronze 4** ALL SOLVE
+
+Season 2 **Gold 5**
+
+Solved **500 Problems**
+
+<br>
 
 ### Open Contest
-- Competed in **4th SMUPC Open Contest**
-- Competed in **2024 IUPC Open Contest**
 
-### Tier
-[![https://solved.ac/profile/imcy0104](http://mazassumnida.wtf/api/v2/generate_badge?boj=imcy0104)](https://solved.ac/imcy0104) [![https://solved.ac/profile/imcy0104](http://mazandi.herokuapp.com/api?handle=imcy0104&theme=dark)](https://solved.ac/imcy0104)
+Competed in **4th SMUPC Open Contest**
+
+Competed in **2024 IUPC Open Contest**
+
+<br>
+
+### More Information
+[![https://solved.ac/profile/imcy0104](http://mazassumnida.wtf/api/v2/generate_badge?boj=imcy0104)](https://solved.ac/imcy0104/) [![https://solved.ac/profile/imcy0104](http://mazandi.herokuapp.com/api?handle=imcy0104&theme=dark)](https://solved.ac/imcy0104)
+
+</div>
