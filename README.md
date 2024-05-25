@@ -66,7 +66,7 @@ Solved **500 Problems**
 
 <br>
 
-### Open Contest
+### Competition
 
 Competed in **4th SMUPC Open Contest**
 
