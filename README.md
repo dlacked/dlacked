@@ -51,7 +51,7 @@
   
 ### Gold 5
 
-<img src="https://img.shields.io/badge/pypy-#E09E37?style=for-the-badge&logo=Pypy&logoColor=white"> <img src="https://img.shields.io/badge/Python-#E09E37?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/pypy-E09E37?style=for-the-badge&logo=Pypy&logoColor=white"> <img src="https://img.shields.io/badge/Python-E09E37?style=for-the-badge&logo=Python&logoColor=white">
 <hr>
 
 ### Archivements
