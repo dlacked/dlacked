@@ -52,8 +52,7 @@
 ### Gold 5
 
 <img src="https://img.shields.io/badge/pypy-black?style=for-the-badge&logo=Pypy&logoColor=193440"> <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=3776AB">
-
-<br>
+<hr>
 
 ### Archivements
 
@@ -73,7 +72,7 @@ Competed in **4th SMUPC Open Contest**
 
 Competed in **2024 IUPC Open Contest**
 
-<br>
+<hr>
 
 ### More Information
 [![https://solved.ac/profile/imcy0104](http://mazassumnida.wtf/api/v2/generate_badge?boj=imcy0104)](https://solved.ac/imcy0104/) [![https://solved.ac/profile/imcy0104](http://mazandi.herokuapp.com/api?handle=imcy0104&theme=dark)](https://solved.ac/imcy0104)
