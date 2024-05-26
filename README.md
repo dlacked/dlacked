@@ -45,11 +45,13 @@
 
 ## 백준 / Solved.ac
 <div align="center">
-  <a href="https://solved.ac/profile/imcy0104"><img src="https://static.solved.ac/tier_small/11.svg" width="100" height="100"></a>
-  
+  <a href="https://solved.ac/profile/imcy0104"><img src="https://static.solved.ac/tier_small/11.svg" width="100" height="100"></a> 
+
+  <br>
+
   <br>
   
-### Gold 5
+**Gold 5, Class 2++**
 
 <img src="https://img.shields.io/badge/pypy-E09E37?style=for-the-badge&logo=Pypy&logoColor=white"> <img src="https://img.shields.io/badge/Python-E09E37?style=for-the-badge&logo=Python&logoColor=white">
 <hr>
@@ -62,7 +64,7 @@
 
 Season 2 **Gold 5**
 
-Solved **500 Problems**
+Solved **600 Problems**
 
 <br>
 
